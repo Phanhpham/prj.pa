@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "project-javascript"
+		},
+		{
+			"path": "giao diện"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "giao diện"
+	}
+}
